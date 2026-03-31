@@ -1,0 +1,20 @@
+Cybercrime Case Study: Phishing Attack
+
+Introduction:
+Cybercrime refers to illegal activities carried out using computers or the internet. One common cybercrime is phishing.
+
+what is Phishing?
+Phishing is a type of cyber attack where criminals send fake emails or messages pretending to be from trusted organizations such as banks or companies. The goal is to trick people into sharing personal information like passwords, bank details, or OTPs.
+
+Example
+A person receives an email that appears to be from a bank asking them to update their account details through a link. When the person clicks the link and enters their information, the attacker steals their data.
+
+Prevention Methods:
+1. Do not click suspicious links.
+2. Always verify the sender’s email address.
+3. Use strong passwords.
+4. Enable two-factor authentication.
+5. Keep software and antivirus updated.
+
+Conclusion:
+Cybercrime is increasing with the growth of digital technology. Awareness and safe online practices are important to protect personal information.
